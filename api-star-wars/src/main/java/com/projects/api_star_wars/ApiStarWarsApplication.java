@@ -8,8 +8,6 @@ public class ApiStarWarsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiStarWarsApplication.class, args);
-
-		System.out.println("APP RODANDO!");
 	}
 
 }
